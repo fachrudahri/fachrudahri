@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dntffm
-- 👀 I’m interested in Backend Development and Frontend Development
-- 🌱 I’m currently learning VueJS, Laravel and Node.JS
+- 👋 Hi, I’m @fachrudahri
+- 👀 I’m interested in Frontend Development and Blockchain
+- 🌱 I’m currently learning VueJS, ReactJS and Node.JS
 - 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me ? contact on dentamaulan88@gmail.com
+- 📫 How to reach me ? contact on fachru.dahri@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dntffm&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dntffm&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
