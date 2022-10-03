@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fachrudahri&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fachrudahri&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![@fachrudahri's Holopin board](https://holopin.io/api/user/board?user=fachrudahri)](https://holopin.io/@fachrudahri)
+
 <!---
 fachrudahri/fachrudahri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
