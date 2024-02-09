@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: 
   - VueJS (Composition API🌿, NuxtJS🌲, Pinia🍍)
   - ReactJS (NextJS🖤, ahooks/SWR/react-query🪄)
-  - and Node.JS (using express🚀 for Backend)
+  - and NodeJS (using express🚀 for Backend)
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me ? contact on fachru.dahri@gmail.com
 
