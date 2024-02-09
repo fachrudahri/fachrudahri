@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @fachrudahri
 - 👀 I’m interested in Frontend Development and Blockchain
 - 🌱 I’m currently learning: 
--- VueJS (VueJS 3, Composition API, NuxtJS, Pinia)
-- - -> ReactJS (ReactJS v18+, NextJS, ahooks/SWR/react-query)
-- - -> and Node.JS (using express for Backend)
+  - VueJS (VueJS 3, Composition API, NuxtJS, Pinia)
+  - ReactJS (ReactJS v18+, NextJS, ahooks/SWR/react-query)
+  - and Node.JS (using express for Backend)
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me ? contact on fachru.dahri@gmail.com
 
